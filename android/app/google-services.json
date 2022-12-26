@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453707333743",
+    "project_id": "bevy-e225b",
+    "storage_bucket": "bevy-e225b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453707333743:android:c774169db6ecf2300d4d9a",
+        "android_client_info": {
+          "package_name": "com.roko.bevy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453707333743-jm1njvvftt471o58jdbq4pojrjl6vi5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVMTywWc7b0P-6QCgmuDyONW9Vf_Ps7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453707333743-jm1njvvftt471o58jdbq4pojrjl6vi5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
